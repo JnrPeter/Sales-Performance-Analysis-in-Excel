@@ -4,12 +4,12 @@ The dataset was about the performance of sales personnel and cookie products in 
 
 The following questions motivated the data Analysis.
 
-•	Sales per country
-•	2.Top five Products by dollar per unit
-•	3.Best Sales person in each country by total amount of sales
-•	4.Profits made by Sales Personnel
-•	5.Top ten best performing products by percentage profits
-•	6.Products that did not make any profits.
+  •	Sales per country
+  •	Top five Products by dollar per unit
+  •	Best Sales person in each country by total amount of sales
+  •	Profits made by Sales Personnel
+  •	Top ten best performing products by percentage profits
+  •	Products that did not make any profits.
 
 
 An interactive dashboard was and a dynamic country sales report was built using the analyzed data.
