@@ -1,4 +1,4 @@
-# Sales-Performance-Analysis-in-Excel
+# JnrPeter.Sales-Performance-Analysis-in-Excel
 
 The dataset was about the performance of sales personnel and cookie products in six (6) different countries. The dataset was cleaned by removing duplicates. A quick analysis of the data such as average, median etc. was first performed using formulas to get an overview of the dataset. Conditional Formatting was applied to the dataset to see how varied the data was. Then the data analysis was performed mostly using pivot tables to answer certain questions.
 
