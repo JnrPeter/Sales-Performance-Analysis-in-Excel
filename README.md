@@ -12,4 +12,4 @@ The following questions motivated the data Analysis:
    •	Products that did not make any profits.
 
 
-An interactive dashboard was and a dynamic country sales report was built using the analyzed data.
+Finally an interactive dashboard and a dynamic sales report was developed using the analyzed data.
